@@ -43,6 +43,7 @@ export const onBoardingSlides: onBoardingSlidesTypes[] = [
   },
   {
     color: "#FFC0CB",
+    title: "Complete full",
     image: (
       <Image
         source={Three}
@@ -52,7 +53,6 @@ export const onBoardingSlides: onBoardingSlidesTypes[] = [
         }}
       />
     ),
-    title: "Complete full",
     secondTitle: "Course",
     subTitle:
       "Achieve certification by completing courses with dedicated effort",
